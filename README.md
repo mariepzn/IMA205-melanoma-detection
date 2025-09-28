@@ -1,6 +1,6 @@
 # Skin Lesion Classification – IMA205 Project
 
-This repository contains the implementation and report of the **IMA205 Medical Imaging Project** conducted at Telecom Paris. The goal of this project is to design and evaluate a complete pipeline for the **automated classification of skin lesion images** into eight categories (e.g., melanoma, basal cell carcinoma, vascular lesion), contributing to the development of computer-aided diagnostic systems.
+This repository contains the implementation and report of the **IMA205 Medical Imaging Project** conducted at Telecom Paris. The goal of this project is to design and evaluate a complete pipeline for the **automated classification of skin lesion images** into eight categories (melanoma, basal cell carcinoma, vascular lesion...), contributing to the development of computer-aided diagnostic systems.
 
 ---
 
